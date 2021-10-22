@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Python学习笔记NO.1
-description: 本文记录了Python的语法特点、保留字与标识符、变量、基本数据类型、数据类型转换、运算符、基本输入输出等知识点。
+layout: "post"
+title: "Python学习笔记NO.1"
+description: "本文记录了Python的语法特点、保留字与标识符、变量、基本数据类型、数据类型转换、运算符、基本输入输出等知识点。"
 date: 2020-6-1
 tag: Python笔记
 ---
